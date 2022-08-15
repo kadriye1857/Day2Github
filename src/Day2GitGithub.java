@@ -16,4 +16,7 @@ public class Day2GitGithub {
     için sadece git push kullanırız.
 
      */
+    public static void main(String[] args) {
+        System.out.println("Branch deneme 1");
+    }
 }
